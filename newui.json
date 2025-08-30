@@ -1,7 +1,8 @@
 {
-  "allowed": [
-    "ABC-123-XYZ",
-    "RAHEEL-999",
-    "VIP-KEY-2025"
+  "allowed_keys": [
+    "abc123",
+    "mytestkey",
+    "yourlicensekey"
   ]
 }
+
